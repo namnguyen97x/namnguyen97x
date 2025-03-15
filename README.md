@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, tech explorer!
 
-<!--
-**namnguyen97x/namnguyen97x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Web Designer | 💻 IT Helpdesk | 🛠 Tech Enthusiast**
 
-Here are some ideas to get you started:
+## 🚀 ABOUT ME  
+- 🏷 **Name:** NGUYEN DUC NAM  
+- 🌍 **Location:** Vietnam  
+- 📌 Passionate about **designing, coding, and solving IT issues**  
+- 🖥 Always exploring **new technologies** and improving my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 WHAT I DO  
+- 🎨 **Web Design & Development**  
+  - 🖌 Creating beautiful, responsive, and functional websites  
+  - 🛠 Skilled in **PHP, HTML, CSS, JavaScript, Laravel, ReactJS**  
+- 🖥 **IT Helpdesk & System Maintenance**  
+  - 💾 **Backup servers** and ensure data security  
+  - ⚙️ **Software installation & troubleshooting**  
+  - 🛠 Managing **MySQL & SQL Server** databases  
+- 🏗 **Technical Skills**  
+  - 📐 **AutoCAD** – Designing & drafting  
+  - 🏗 Building **scalable and efficient web applications**  
+
+## 🎯 TECH STACK  
+- **Frontend:** HTML, CSS, JavaScript, ReactJS  
+- **Backend:** PHP, Laravel  
+- **Database:** MySQL, SQL Server  
+- **Other Tools:** AutoCAD, Server Backup & Maintenance  
+
+## 📬 CONNECT WITH ME  
+- 📩 Email: ducnamnguyen99@gmail.com 
+- 🌐 Website: iamkudo.publicvm.com  
+
+*"Technology is best when it brings people together."* 🚀  
